@@ -1,0 +1,16 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+yfinance
+pandas
+numpy
+scikit-learn
+torch
+torchvision
+torchaudio
+transformers
+optuna
+matplotlib
+seaborn
+tqdm
+vectorbt  # excellent for fast backtesting
+backtrader  # alternative
+shap  # for explainability (TimeSHAP may need extra)
