@@ -14,3 +14,7 @@ tqdm
 vectorbt  # excellent for fast backtesting
 backtrader  # alternative
 shap  # for explainability (TimeSHAP may need extra)
+snscrape
+nltk
+textblob
+pandas-ta
