@@ -16,3 +16,4 @@ logs/*
 
 # Large data files
 notebooks/data/temp/lstm_data.npz
+notebooks/data/processed/*.npy
